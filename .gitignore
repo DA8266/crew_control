@@ -1,0 +1,16 @@
+# Python bytecode and cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Testing cache
+.pytest_cache/
+
+# Virtual environments (if applicable)
+venv/
+.venv/
+env/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
