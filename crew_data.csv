@@ -1,0 +1,16 @@
+emp_id,first_n,last_n,age,salary,dept,hire_date,status
+100,Bob,Johnson,30,45000.0,Sales,2018-10-21,Inactive
+101,Sarah,Lee,50,60000.0,Finance,2026-02-16,Active
+102,Marcus,Vance,28,72000.0,Engineering,2022-04-12,Active
+103,Elena,Rostova,34,85000.0,Engineering,2020-08-01,Active
+104,David,Chen,42,95000.0,Engineering,2019-01-15,Active
+105,Aisha,Patel,29,58000.0,Marketing,2023-06-30,Active
+106,James,Wilson,37,62000.0,Sales,2021-11-05,Active
+107,Sophia,Taylor,45,78000.0,HR,2017-03-14,Active
+108,Carlos,Mendoza,31,54000.0,Marketing,2024-01-10,Active
+109,Rachel,Green,26,48000.0,Sales,2023-09-01,Inactive
+110,Devon,Brooks,52,110000.0,Executive,2015-05-20,Active
+111,Maya,Lin,33,67000.0,Finance,2021-02-18,Active
+112,Liam,O'Connor,24,51000.0,Customer Support,2025-07-11,Active
+113,Olivia,Alvarez,39,89000.0,Engineering,2018-12-03,Active
+114,Ethan,Wright,36,61000.0,HR,2022-10-19,Inactive
